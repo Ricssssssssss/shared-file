@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Student Evaluation Form\bin\Debug\net8.0-windows\Student Evaluation Form.exe
+C:\Users\user\source\repos\Student Evaluation Form\bin\Debug\net8.0-windows\Student Evaluation Form.deps.json
+C:\Users\user\source\repos\Student Evaluation Form\bin\Debug\net8.0-windows\Student Evaluation Form.runtimeconfig.json
+C:\Users\user\source\repos\Student Evaluation Form\bin\Debug\net8.0-windows\Student Evaluation Form.dll
+C:\Users\user\source\repos\Student Evaluation Form\bin\Debug\net8.0-windows\Student Evaluation Form.pdb
+C:\Users\user\source\repos\Student Evaluation Form\obj\Debug\net8.0-windows\Student_Evaluation_Form.Form1.resources
+C:\Users\user\source\repos\Student Evaluation Form\obj\Debug\net8.0-windows\Student Evaluation Form.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Student Evaluation Form\obj\Debug\net8.0-windows\Student Evaluation Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Student Evaluation Form\obj\Debug\net8.0-windows\Student Evaluation Form.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Student Evaluation Form\obj\Debug\net8.0-windows\Student Evaluation Form.AssemblyInfo.cs
+C:\Users\user\source\repos\Student Evaluation Form\obj\Debug\net8.0-windows\Student Evaluation Form.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Student Evaluation Form\obj\Debug\net8.0-windows\Student Evaluation Form.dll
+C:\Users\user\source\repos\Student Evaluation Form\obj\Debug\net8.0-windows\refint\Student Evaluation Form.dll
+C:\Users\user\source\repos\Student Evaluation Form\obj\Debug\net8.0-windows\Student Evaluation Form.pdb
+C:\Users\user\source\repos\Student Evaluation Form\obj\Debug\net8.0-windows\Student Evaluation Form.genruntimeconfig.cache
+C:\Users\user\source\repos\Student Evaluation Form\obj\Debug\net8.0-windows\ref\Student Evaluation Form.dll
